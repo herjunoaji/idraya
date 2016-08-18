@@ -1,16 +1,4 @@
-/**
-    Super Mario Overworld / Main Theme per Arduino
-    Code for Sketch (Arduino) tested on Arduino UNO R3
 
-    Made by Reyboz Blog
-    [ http://blog.reyboz.it ]
-
-    Un caloroso ringraziamento a Joseph Karam, autore delle trascrizioni degli
-    spartiti per pianoforte a due mani sulle note della composizione originale della
-    Nintendo Entertainment System by Koji Kondo, che ci ha permesso di riprodurre
-    fedelmente la canzone.
-    [ http://www.mariopiano.com ]
-*/
 
 //  [ http://code.google.com/p/rogue-code/wiki/ToneLibraryDocumentation ]
 #include <Tone.h>
